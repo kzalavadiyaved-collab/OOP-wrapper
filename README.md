@@ -75,6 +75,14 @@ Employee
 
 ---
 
+# Output of Code
+<img width="562" height="636" alt="image" src="https://github.com/user-attachments/assets/03ae32bc-914b-4c31-b23d-83b7c59b5bd9" />
+<img width="566" height="711" alt="image" src="https://github.com/user-attachments/assets/023aff03-ac3d-4dc8-9dd1-477b4265f6ce" /> 
+<img width="586" height="418" alt="image" src="https://github.com/user-attachments/assets/f920b8d1-ff9e-4467-b358-231397c4ddb6" />
+
+
+
+
 # 💻 Features
 
 - Create Employee
@@ -104,6 +112,7 @@ Employee
 6. Exit the program.
 
 ---
+
 
 # 📚 Learning Outcomes
 
